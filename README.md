@@ -1,4 +1,4 @@
-"# Login com registro e verificação de usuário por email
+# Login com registro e verificação de usuário por email
 
 Projeto back-end *Cadastro de usuário com autenticação por email*
 
